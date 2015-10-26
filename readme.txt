@@ -7,3 +7,6 @@ Git is free software.
 再接着修改
 
 又一次提交了
+
+
+Creating a new branch is quick.
